@@ -1,9 +1,6 @@
-baseURL = "https://kprasadvnsi.gitlab.io/opi-documentation/"
 languageCode = "en-us"
 title = "Orange Pi"
 theme = "book"
-
-canonifyURLs = true
 
 [params]
     BookLogo = "logo.png"
