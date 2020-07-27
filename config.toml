@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Orange Pi"
+theme = "book"
+
+
+
+[params]
+    BookLogo = "logo.png"
+
