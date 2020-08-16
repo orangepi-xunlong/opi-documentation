@@ -28,15 +28,23 @@ Orange Pi 4 comes with two variants. You can get either a board with 16GB onboar
 
 ### 2. A power supply
 
-{{< columns >}}
-### 5V4A EU plug
+You need a power supply that provides at least 5 volts, 4.0 amps for Orange Pi 4. The power adapter comes in two variants EU and US plug.
 
-![Orange Pi 4](/images/5v4aEU.jpg "Orange Pi 4")
+{{< columns >}}
+### 5V, 4A EU plug
+
+![5V4A EU plug](/images/5v4aEU.jpg "5V4A EU plug")
 
 <--->
 
-### 5V4A US plug
+### 5V, 4A US plug
 
-![Orange Pi 4 without EMMC](/images/5v4aUS.jpg "Orange Pi 4 without EMMC")
+![5V4A US plug](/images/5v4aUS.jpg "5V4A US plug")
 
 {{< /columns >}}
+
+### 3. A microSD card
+
+You need a microSD card with a capacity of at least 8 GB with class 10 speed rating. 
+
+![5V4A US plug](/images/opi4usd.png "5V4A US plug")
