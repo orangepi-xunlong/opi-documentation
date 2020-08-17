@@ -9,7 +9,7 @@ Here you will learn more about your Orange Pi 4. What stuff you need to get star
 
 ## Requirements
 
-### 1. Choose a Orange Pi 4 board.
+### **1. Choose a Orange Pi 4 board.**
 
 Orange Pi 4 comes with two variants. You can get either a board with 16GB onboard EMMC storage or there is a bit cheaper one without EMMC storage.
 
@@ -26,7 +26,7 @@ Orange Pi 4 comes with two variants. You can get either a board with 16GB onboar
 
 {{< /columns >}}
 
-### 2. A power supply
+### **2. A power supply**
 
 You need a power supply that provides at least 5 volts, 4.0 amps for Orange Pi 4. The power adapter comes in two variants EU and US plug.
 
@@ -43,8 +43,22 @@ You need a power supply that provides at least 5 volts, 4.0 amps for Orange Pi 4
 
 {{< /columns >}}
 
-### 3. A microSD card
+### **3. A microSD card**
 
 You need a microSD card with a capacity of at least 8 GB with class 10 speed rating. 
 
-![5V4A US plug](/images/opi4usd.png "5V4A US plug")
+![Orange Pi 4 microSD](/images/opi4usd.png "Orange Pi 4 microSD")
+
+### **4. A keyboard and a mouse**
+
+To setup Orange Pi 4 for the first time, you will need a USB keyboard and a USB mouse. A Bluetooth keyboard and mouse can also be used after first time setup is complete.
+
+### **5. A computer moniter**
+
+For Orange Pi desktop environment, you will need a screen and a HDMI cable for Orange Pi 4 to connect to screen.
+
+If you don't have HDMI capable moniter screen then a VGA moniter can be used with a **HDMI to VGA adapter** like the one shown below:
+
+![Orange Pi 4 microSD](/images/HDMItoVGA.jpg "Orange Pi 4 microSD")
+
+## Set up your SD card
