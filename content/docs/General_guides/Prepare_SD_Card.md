@@ -6,13 +6,13 @@ title: "Prepare your microSD card"
 
 # Prepare your microSD card
 
-## Download the tools.
+## 1. Download the tools.
 
 We are going to use a Open Source tool called **balenaEtcher** for writing Orange Pi OS images to MicroSD card. Download the tool using following link.
 
 [Download balenaEtcher from here.](https://www.balena.io/etcher/)
 
-## Select an Orange Pi OS image.
+## 2. Select an Orange Pi OS image.
 
 Click on **Flash from file** and select a OS Image.
 
@@ -20,7 +20,7 @@ Click on **Flash from file** and select a OS Image.
 
 ![Etcher](/docs/General_guides/images/etcher1.png)
 
-## Select a MicroSD card drive.
+## 3. Select a MicroSD card drive.
 
 Click on **Select target** and select your **MicroSD** drive. 
 
@@ -28,7 +28,7 @@ Click on **Select target** and select your **MicroSD** drive.
 
 ![Etcher](/docs/General_guides/images/etcher3.png)
 
-## Perform the Write opration
+## 4. Perform the Write opration
 
 Click on the **Flash!** button to write OS image to MicroSD card.
 
@@ -52,7 +52,7 @@ Wait for Etcher to finish the write opration.
 
 ![Etcher](/docs/General_guides/images/etcher5.png)
 
-## Success!
+## 5. Success!
 
 If you see **1 Successful target** then this MicroSD card is ready to boot on Orange Pi SBC.
 
