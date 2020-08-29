@@ -62,3 +62,7 @@ If you don't have HDMI capable moniter screen then a VGA moniter can be used wit
 ![Orange Pi 4 microSD](/images/HDMItoVGA.jpg "Orange Pi 4 microSD")
 
 ## Set up your SD card
+
+Please follow this guide for setup your MicroSD card.
+
+[Prepare your microSD card](/docs/general_guides/prepare_sd_card/)
