@@ -1,6 +1,6 @@
 ---
-weight: 1
+weight: 5
 title: "Orange Pi One Plus"
 ---
 
-# opi4
+# Orange Pi One Plus

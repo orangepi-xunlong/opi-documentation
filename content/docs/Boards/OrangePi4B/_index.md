@@ -1,6 +1,6 @@
 ---
-weight: 1
+weight: 2
 title: "Orange Pi 4B"
 ---
 
-# opi4B
+# Orange Pi 4B
