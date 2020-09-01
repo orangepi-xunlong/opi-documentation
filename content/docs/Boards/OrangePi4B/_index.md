@@ -4,11 +4,11 @@ title: "Orange Pi 4B"
 ---
 
 <!-- Board Official Name -->
-# Orange Pi 4
+# Orange Pi 4B
 
 <!-- Image, prefer raw ones with no comments or marks -->
 
-![Orange Pi 4](/images/opi4b.jpg "Orange Pi 4")
+![Orange Pi 4B](/images/opi4b.jpg "Orange Pi 4B")
 
 
 
