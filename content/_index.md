@@ -20,6 +20,19 @@ bookToc: false
 {{< /columns >}}
 
 {{< columns >}}
+## Orange Pi RK3399
+
+![Orange Pi RK3399](/images/opiRK3399.jpg "Orange Pi RK3399")
+
+<--->
+
+## Orange Pi 3
+
+![Orange Pi 3](/images/opi3.jpg "Orange Pi 3")
+
+{{< /columns >}}
+
+{{< columns >}}
 ## Orange Pi One Plus
 
 ![Orange Pi One Plus](/images/opi1plus.jpg "Orange Pi One Plus")
