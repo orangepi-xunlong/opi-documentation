@@ -24,7 +24,7 @@ title: "Orange Pi 4"
 |Audio | Output: 3.5mm Jack and HDMI2.0a,<br> Input: MIC|
 |Video Outputs | 1 x HDMI 2.0 ( Type-A ), Supports 4K@60fps output<br> 1 x DP 1.2 (Display Port) , Supports 4K@60fps output,<br> Supports Dual MIPI-DSI（4 lines per channel）|
 |Camera | 2 x MIPI-CSI(MIPI_RX0, MIPI_TX1/RX1) |
-|USB | 2 x USB2.0 HOST，1 x USB3.0 Type-C|
+|USB | 2x USB3.0 HOST，1x USB2.0 HOST, 1x USB3.0 Type-C|
 |RTC | Support RTC, on-board battery backup interface |
 |Debug UART | 3pins Debug UART |
 |GPIO | GPIO1 40 pins,<br> 1 x I2S,<br> 2 x I2C,<br> 1 x SPI/UART,<br> 8 x GPIO,<br> GPIO2 24pin PCIE port|
