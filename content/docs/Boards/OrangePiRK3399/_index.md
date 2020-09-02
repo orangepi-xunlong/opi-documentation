@@ -62,8 +62,9 @@ Support Matrix:
 
 Defconfigs: 
     
-Linux defconfig: 
-U-Boot defconfig: 
+Linux defconfig:
+
+U-Boot defconfig:orangepi-rk3399_defconfig
 
 <!-- Specific Library support (always with the link to the lib code) -->
 ## Sofware library support and variants

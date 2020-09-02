@@ -56,7 +56,7 @@ Support Matrix:
 | Linux Kernel | Yes | Yes | | 
 |U-Boot| Yes | Yes||
 | Yocto| | | X |
-|Buildroot| | |X|
+|Buildroot| Yes | | |
 
 Defconfigs: 
     
