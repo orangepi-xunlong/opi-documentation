@@ -1,17 +1,17 @@
 ---
 bookFlatSection: true
-weight: 1
-title: "Connect to a Wifi Network"
+weight: 2
+title: "Connect to a Wi-Fi network"
 ---
 
-# Add a WIFI Connection
+# Add a Wi-Fi Connection
 
-Their are several ways to add  a WIFI Connection, depending on your preference. These ways are listed below:
-All of these methods  assume that your board has WiFI, and/or a USB wifi adapter
+Their are several ways to add  a Wi-Fi Connection, depending on your preference. These ways are listed below:
+All of these methods  assume that your board has Wi-Fi, and/or a USB Wi-Fi adapter
 #
 
 ## Method 1: `nmtui`
-The `nmtui` tool, or `NetworkManager Text User Interface`, is a component of NetworkManager, and can be used (in a TUI style) to add and select a WIFi network.
+The `nmtui` tool, or `NetworkManager Text User Interface`, is a component of NetworkManager, and can be used (in a TUI style) to add and select a Wi-Fi network.
 Nmtui is, however, also capable of managing other types of networks, and depending on your circumstances may not be the best option. This leads is to...
 
 ## Method 2: `nmcli `
@@ -20,7 +20,7 @@ Nmtui is, however, also capable of managing other types of networks, and dependi
 To connect to a wireless network, follow these instructions:
 
 ### 1: list wireless networks
-To show a list of wi-fi networks, at a sudo-enabled terminal, enter:
+To show a list of Wi-Fi networks, at a sudo-enabled terminal, enter:
 
 ```bash
  sudo nmcli device wifi list

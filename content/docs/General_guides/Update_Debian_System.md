@@ -1,10 +1,10 @@
 ---
 bookFlatSection: true
-weight: 1
-title: "Update Your Debian/Armbian System"
+weight: 3
+title: "Update your Debian/Armbian system"
 ---
 
-# How  to update your Orange PI
+# How  to update your Orange Pi
 
 ## Debian (and Debian-derived distributions)
 #
