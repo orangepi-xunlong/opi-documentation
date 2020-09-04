@@ -44,3 +44,12 @@ bookToc: false
 ![Orange Pi Lite2](/images/opilite2.jpg "Orange Pi Lite2")
 
 {{< /columns >}}
+
+{{< columns >}}
+## Orange Pi Zero
+
+![Orange Pi Zero](/images/opi_zero.jpg "Orange Pi Zero")
+
+<--->
+
+{{< /columns >}}
