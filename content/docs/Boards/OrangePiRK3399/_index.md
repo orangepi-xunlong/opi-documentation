@@ -47,7 +47,7 @@ title: "Orange Pi RK3399"
 <!-- OS Support with links to the download page if possible -->
 ## Supported Operating Systems: 
 
-- [Armbian](https://www.armbian.com/orange-pi-4/) linux, different Debian or Ubuntu flavours to pick, active develpment
+- [Armbian](https://www.armbian.com/orange-pi-rk3399/) linux, different Debian or Ubuntu flavours to pick, active develpment
 - [Android](#)
 
 
