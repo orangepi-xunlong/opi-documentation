@@ -59,7 +59,7 @@ For Orange Pi desktop environment, you will need a screen and a HDMI cable for O
 
 If you don't have HDMI capable moniter screen then a VGA moniter can be used with a **HDMI to VGA adapter** like the one shown below:
 
-![Orange Pi 4 microSD](/images/HDMItoVGA.jpg "Orange Pi 4 microSD")
+![HDMI to VGA adapter](/images/HDMItoVGA.jpg "HDMI to VGA adapter")
 
 ## Set up your SD card
 
