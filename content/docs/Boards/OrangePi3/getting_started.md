@@ -9,16 +9,26 @@ Here you will learn more about your Orange Pi 3. What stuff you need to get star
 
 ## Requirements
 
-### **1. A Orange Pi 3 Board.**
+### **1. Choose a Orange Pi 3 board.**
 
+Orange Pi 3 comes with two variants. You can get either a board with 8GB onboard EMMC storage or there is a bit cheaper one without EMMC storage.
+
+{{< columns >}}
 ### Orange Pi 3
 
 ![Orange Pi 3](/images/opi3.jpg "Orange Pi 3")
 
+<--->
+
+### Orange Pi 3 without EMMC
+
+![Orange Pi 3 without EMMC](/images/opi3noEMMC.jpg "Orange Pi 3 without EMMC")
+
+{{< /columns >}}
 
 ### **2. A power supply**
 
-You need a power supply that provides at least 5 volts, 3.0 amps for Orange Pi 3. The power adapter comes in two variants EU and US plug.
+You need a power supply that provides at least 5 volts, 4.0 amps for Orange Pi3. The power adapter comes in two variants EU and US plug.
 
 {{< columns >}}
 ### 5V, 4A EU plug
