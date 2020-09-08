@@ -7,6 +7,7 @@ bookToc: false
 # Orange Pi Documentation
 
 {{< columns >}}
+
 ## Orange Pi 4
 
 ![Orange Pi 4](/images/opi4.jpg "Orange Pi 4")
@@ -20,6 +21,7 @@ bookToc: false
 {{< /columns >}}
 
 {{< columns >}}
+
 ## Orange Pi RK3399
 
 ![Orange Pi RK3399](/images/opiRK3399.jpg "Orange Pi RK3399")
@@ -33,6 +35,7 @@ bookToc: false
 {{< /columns >}}
 
 {{< columns >}}
+
 ## Orange Pi One Plus
 
 ![Orange Pi One Plus](/images/opi1plus.jpg "Orange Pi One Plus")
@@ -46,6 +49,7 @@ bookToc: false
 {{< /columns >}}
 
 {{< columns >}}
+
 ## Orange Pi Zero
 
 ![Orange Pi Zero](/images/opi_zero.jpg "Orange Pi Zero")
@@ -55,5 +59,15 @@ bookToc: false
 ## Orange Pi R1
 
 ![Orange Pi R1](/images/opi_r1.jpg "Orange Pi R1")
+
+{{< /columns >}}
+
+{{< columns >}}
+
+## Orange Pi Zero Plus2
+
+![Orange Pi Zero Plus2](/images/opi_zero_plus2.jpg "Orange Pi Zero Plus2")
+
+<--->
 
 {{< /columns >}}
