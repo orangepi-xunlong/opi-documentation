@@ -13,7 +13,7 @@ Here you will learn more about your Orange Pi 4B. What stuff you need to get sta
 
 ### Orange Pi 4B
 
-![Orange Pi 4B](/images/opi4b.jpg "Orange Pi 4")
+![Orange Pi 4B](/images/opi4b.jpg "Orange Pi 4B")
 
 
 ### **2. A power supply**
@@ -37,7 +37,7 @@ You need a power supply that provides at least 5 volts, 4.0 amps for Orange Pi 4
 
 You need a microSD card with a capacity of at least 8 GB with class 10 speed rating. 
 
-![Orange Pi 4B microSD](/images/opi4busd.png "Orange Pi 4 microSD")
+![Orange Pi 4B microSD](/images/opi4busd.png "Orange Pi 4B microSD")
 
 ### **4. A keyboard and a mouse**
 
@@ -49,7 +49,7 @@ For Orange Pi desktop environment, you will need a screen and a HDMI cable for O
 
 If you don't have HDMI capable moniter screen then a VGA moniter can be used with a **HDMI to VGA adapter** like the one shown below:
 
-![Orange Pi 4B microSD](/images/HDMItoVGA.jpg "Orange Pi 4 microSD")
+![HDMI to VGA adapter](/images/HDMItoVGA.jpg "HDMI to VGA adapter")
 
 ## Set up your SD card
 
