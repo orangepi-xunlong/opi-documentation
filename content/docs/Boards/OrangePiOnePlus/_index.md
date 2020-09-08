@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 weight: 5
 title: "Orange Pi One Plus"
 ---

@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 weight: 6
 title: "Orange Pi Lite2"
 ---

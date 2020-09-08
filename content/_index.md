@@ -66,7 +66,7 @@ bookToc: false
 
 ## Orange Pi Zero Plus2
 
-![Orange Pi Zero Plus2](/images/opi_zero_plus2.jpg "Orange Pi Zero Plus2")
+![Orange Pi Zero Plus2](/images/opi_zero_plus2_h3.jpg "Orange Pi Zero Plus2")
 
 <--->
 
