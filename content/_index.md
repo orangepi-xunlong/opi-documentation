@@ -70,4 +70,8 @@ bookToc: false
 
 <--->
 
+## Orange Pi One
+
+![Orange Pi One](/images/opi_one.jpg "Orange Pi One")
+
 {{< /columns >}}
