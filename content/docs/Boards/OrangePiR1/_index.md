@@ -8,7 +8,7 @@ title: "OrangePi R1"
 
 <!-- Image, prefer raw ones with no comments or marks -->
 
-![Orange Pi R1](/images/opi_r1.png "Orange Pi R1")
+![Orange Pi R1](/images/opi_r1.jpg "Orange Pi R1")
 
 
 
