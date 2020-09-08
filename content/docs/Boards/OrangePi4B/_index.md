@@ -1,4 +1,5 @@
 ---
+bookCollapseSection: true
 weight: 2
 title: "Orange Pi 4B"
 ---
