@@ -50,6 +50,20 @@ bookToc: false
 
 {{< columns >}}
 
+## Orange Pi One
+
+![Orange Pi One](/images/opi_one.jpg "Orange Pi One")
+
+<--->
+
+## Orange Pi Zero Plus2
+
+![Orange Pi Zero Plus2](/images/opi_zero_plus2_h3.jpg "Orange Pi Zero Plus2")
+
+{{< /columns >}}
+
+{{< columns >}}
+
 ## Orange Pi Zero
 
 ![Orange Pi Zero](/images/opi_zero.jpg "Orange Pi Zero")
@@ -62,16 +76,3 @@ bookToc: false
 
 {{< /columns >}}
 
-{{< columns >}}
-
-## Orange Pi Zero Plus2
-
-![Orange Pi Zero Plus2](/images/opi_zero_plus2_h3.jpg "Orange Pi Zero Plus2")
-
-<--->
-
-## Orange Pi One
-
-![Orange Pi One](/images/opi_one.jpg "Orange Pi One")
-
-{{< /columns >}}

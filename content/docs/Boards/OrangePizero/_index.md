@@ -1,6 +1,6 @@
 ---
 bookCollapseSection: true
-weight: 7
+weight: 9
 title: "OrangePi Zero"
 ---
 

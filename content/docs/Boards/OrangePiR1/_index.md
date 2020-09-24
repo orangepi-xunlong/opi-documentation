@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 10
 title: "OrangePi R1"
 ---
 

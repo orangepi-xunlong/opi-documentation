@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
-weight: 1
-title: "Orange Pi I96"
+weight: 11
+title: "Orange Pi i96"
 ---
 <!-- Board Official Name -->
 # Orange Pi I96

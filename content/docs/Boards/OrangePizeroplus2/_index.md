@@ -1,6 +1,6 @@
 ---
 bookCollapseSection: true
-weight: 7
+weight: 8
 title: "OrangePi Zero Plus2 H3"
 ---
 
