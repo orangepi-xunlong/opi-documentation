@@ -56,3 +56,39 @@ If you don't have HDMI capable moniter screen then a VGA moniter can be used wit
 Please follow this guide for setup your MicroSD card.
 
 [Prepare your microSD card](/docs/general_guides/prepare_sd_card/)
+
+## Connect your Orange Pi 4B
+
+### **Step 1. Insert the SD card.**
+Insert the SD card into the microSD card slot on the underside of your Orange Pi 4B.
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step1.png)
+
+
+### **Step 2. Connect USB Mouse & Keyboard** 
+Connect the mouse to a USB port on Orange Pi 4B (it doesn’t matter which port you choose).
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step2.png)
+
+### **Step 3. Connect Ethernet cable(Optional)**
+If you want to connect your Orange Pi 4B to the internet via Ethernet then use an Ethernet cable to connect the Ethernet port on Orange Pi to your internet router.
+
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step3.png)
+
+### **Step 4. Connect HDMI cable**
+Connect your moniter to the HDMI port.
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step4.png)
+
+### **Step 5. Connect Audio cable**
+Connect headphones or speakers to the audio port.
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step5.png)
+
+## Power up your Ornage Pi 4
+Your Orange Pi 4B doesn’t have a power button. As soon as you connect it to a power source, it will power on.
+
+Plug the power adapter into a socket and connect it to your Orange Pi 4B power port.
+
+![OrangePi 4B](/docs/Boards/OrangePi4B/images/step6.png)
