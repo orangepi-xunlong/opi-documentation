@@ -86,7 +86,7 @@ Connect headphones or speakers to the audio port.
 
 ![OrangePi 4B](/docs/Boards/OrangePi4B/images/step5.png)
 
-## Power up your Ornage Pi 4
+## Power up your Orange Pi 4
 Your Orange Pi 4B doesn’t have a power button. As soon as you connect it to a power source, it will power on.
 
 Plug the power adapter into a socket and connect it to your Orange Pi 4B power port.
